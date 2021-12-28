@@ -1,4 +1,5 @@
 black
+dask-labextension
 isort
 jupyterlab_code_formatter
 jupyterlab_execute_time
