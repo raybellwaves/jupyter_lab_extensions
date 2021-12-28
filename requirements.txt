@@ -1,3 +1,9 @@
 black
 isort
 jupyterlab_code_formatter
+jupyterlab_execute_time
+jupyter_bokeh
+jupyter-dash
+jupyterlab-git
+jupyterlab-link-share
+jupyter-videochat
